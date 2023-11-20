@@ -1,0 +1,4 @@
+#Face Detection
+mediapipe
+#Open CV
+opencv-python
